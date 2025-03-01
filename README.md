@@ -4,15 +4,15 @@
 
 ### Function:
 
-- help you to Configuration frp client and server.
+- help you to Configuration frp client 和 server.
 - install frp server on the web.
 - look up each server connect status.
 
 ### Install Tutorial
 
 ```shell
-wget -O - https://raw.githubusercontent.com/Zo3i/OCS/master/docker/docker-all2.sh | sh
-wget -O - https://raw.githubusercontent.com/Zo3i/frpMgr/master/web/src/main/docker/final/run.sh | sh
+wget -O - https://raw.githubusercontent.com/lhpmain/OCS/master/docker/docker-all2.sh | sh
+wget -O - https://raw.githubusercontent.com/lhpmain/frpMgr/master/web/src/main/docker/final/run.sh | sh
 ```
 just run the code above on your server;
 
