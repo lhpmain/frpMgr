@@ -55,7 +55,7 @@ git clone https://github.com/Zo3i/frpMgr.git
 cd ./frpMgr/web/src/main/docker/final
 chmod -R 755 ./*
 cd ./mysql
-docker build -t mysql:5.7 .
+docker build -t lhpmain/mysql .
 cd ..
 docker-compose down
 docker-compose build
