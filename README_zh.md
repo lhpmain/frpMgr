@@ -27,8 +27,8 @@
 ### 部署教程
 
 ```shell
-wget -O - https://raw.githubusercontent.com/Zo3i/OCS/master/docker/docker-all2.sh | sh
-wget -O - https://raw.githubusercontent.com/Zo3i/frpMgr/master/web/src/main/docker/final/run.sh | sh
+wget -O - https://raw.githubusercontent.com/lhpmain/OCS/master/docker/docker-all2.sh | sh
+wget -O - https://raw.githubusercontent.com/lhpmain/frpMgr/master/web/src/main/docker/final/run.sh | sh
 ```
 
 **注：代码仅在Centos7,Debian9系统上通过测试**
